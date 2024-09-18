@@ -1,0 +1,10 @@
+services:
+  frontend:
+    build:
+      context: .
+    container_name: frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./:/app
+      # - C:\\Users\\user\\Desktop\\frontend:/app :#for window

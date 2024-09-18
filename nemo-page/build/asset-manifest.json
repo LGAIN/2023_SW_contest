@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/nemo-page/static/css/main.f2ae9727.css",
+    "main.js": "/nemo-page/static/js/main.6ee32d42.js",
+    "static/js/787.cda612ba.chunk.js": "/nemo-page/static/js/787.cda612ba.chunk.js",
+    "static/media/nemo_logo.png": "/nemo-page/static/media/nemo_logo.e923f5c7cdc2dbbb2eca.png",
+    "static/media/locker_img.png": "/nemo-page/static/media/locker_img.d4a1e26baa4ecfd2e85e.png",
+    "static/media/signup_logo.png": "/nemo-page/static/media/signup_logo.2c5804218c529ee6a554.png",
+    "index.html": "/nemo-page/index.html",
+    "main.f2ae9727.css.map": "/nemo-page/static/css/main.f2ae9727.css.map",
+    "main.6ee32d42.js.map": "/nemo-page/static/js/main.6ee32d42.js.map",
+    "787.cda612ba.chunk.js.map": "/nemo-page/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ae9727.css",
+    "static/js/main.6ee32d42.js"
+  ]
+}
